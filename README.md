@@ -1,2 +1,2 @@
-# receitas-online
-Fruta &amp; Fruto - Receitas Online (Front-End)
+# arquitetura-css
+curso de arquitetura da Alura. 
